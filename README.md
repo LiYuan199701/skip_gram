@@ -34,3 +34,16 @@ Skip-gram models computes the probability for each word of appearing in the cont
 
 <img width="1115" alt="Screen Shot 2022-03-28 at 12 36 57 PM" src="https://user-images.githubusercontent.com/65924566/160455241-7117353c-f6ad-4c61-a4c6-1be4b377affd.png">
 
+## Critical Analysis:
+
+<img width="1055" alt="Screen Shot 2022-03-28 at 9 56 35 PM" src="https://user-images.githubusercontent.com/65924566/160523906-2a6bc4f2-37d5-4b62-b0d6-ab22e38d69ce.png">
+
+## Resource Link:
+
+1. Original Paper link: https://arxiv.org/pdf/1310.4546.pdf 
+2. Efficient Estimation of Word Representations in Vector Space: https://arxiv.org/abs/1301.3781 
+3. GloVe: Global Vectors for Word Representation: https://nlp.stanford.edu/pubs/glove.pdf 
+4. A Latent Variable Model Approach to PMI-based Word Embeddings: https://arxiv.org/abs/1502.03520 
+5. word2vec Parameter Learning Explained:            https://arxiv.org/abs/1411.2738 
+6. wevi: word embedding visual inspector:              https://ronxin.github.io/wevi/ 
+
