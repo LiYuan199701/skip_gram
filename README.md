@@ -48,3 +48,5 @@ Skip-gram models computes the probability for each word of appearing in the cont
 6. wevi: word embedding visual inspector:              https://ronxin.github.io/wevi/ 
 
 ## Video Recording:
+
+https://github.com/LiYuan199701/skip_gram/blob/main/overview_video.mp4 
