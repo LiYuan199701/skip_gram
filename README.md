@@ -47,4 +47,4 @@ Skip-gram models computes the probability for each word of appearing in the cont
 5. word2vec Parameter Learning Explained:            https://arxiv.org/abs/1411.2738 
 6. wevi: word embedding visual inspector:              https://ronxin.github.io/wevi/ 
 
-## 
+## Video Recording:
